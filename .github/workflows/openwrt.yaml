@@ -1,4 +1,4 @@
-name: Cloud N1 OpenWrt
+name: OpenWrt
 
 on:
   repository_dispatch:
