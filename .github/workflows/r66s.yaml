@@ -25,6 +25,7 @@ env:
   SCRIPT_SH: script.sh
   CONFIG_SH: config.sh
   UPLOAD_FIRMWARE: true
+  GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
   TZ: Asia/Shanghai
   KERNEL_VERSION: 6.1.79
 
